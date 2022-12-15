@@ -31,7 +31,7 @@ a{
     clear: both;
 }
 .parent{
-    background-image: url(img/sailboat.jpg);
+    background-image: url(sailboat.jpg);
     background-size: cover;
     height: 100vh;
 }
