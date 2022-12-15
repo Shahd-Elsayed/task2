@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    margin: auto;
+}
+nav{ 
+    margin: 10px 0 10px 0;
+}
+nav img{
+    float: left;
+    width: 50px;
+    padding: 1px 35px;
+}
+.Ared{
+    color: red;
+}
+.Ablue{
+    color: #369ff2;
+}
+.Agreen{
+    color: greenyellow;
+}
+a{
+    color: white;
+    float: right;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 10px 25px;
+}
+
+.clearfix{
+    clear: both;
+}
+.parent{
+    background-image: url(img/sailboat.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.info{
+    text-align: center;
+    padding: 12% 0 0% 0;
+    font-size: 25px;
+    font-family: sans-serif;
+} 
+input[type=button]{
+    width: 97px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
